@@ -12,24 +12,16 @@
 
 <br/>
 
-```
-  enjoy the process  ·  trust the debugging  ·  ship it anyway
-```
-
-<br/>
-
-
-<br/>
-
 **✦ About**
 
-· ☕ Turning ideas into working software, one commit at a time  
-· 🧠 I like building things, breaking them on purpose (or not), and figuring out why they broke — getting a little better each time  
-· 🏎️ Currently building an F1 stats dashboard, exploring backend systems, and learning better architecture patterns
+· ✨ Turning ideas into working software, one commit at a time  
+· 🧠 I enjoy building things, breaking them on purpose (or not), and figuring out why they broke — getting a little better each time
 
 <br/>
 
 **✦ Stack**
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23A89984?style=flat-square&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%23A89984?style=flat-square&logo=spring&logoColor=white)
@@ -44,21 +36,42 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23A89984?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23A89984?style=flat-square&logo=mongodb&logoColor=white)
 
+</div>
 <br/>
 
-**✦ Stats**
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chungshing&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungshing&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000)
+  
+```
+  build · break · learn · repeat
+```
 
 </div>
 
 <br/>
 
+**✦ Current Project**
+
+· 🏎️ Building an [F1 Stats Dashboard](github.com/chungshing/f1-race-intelligence-dashboard)  
+· 🔎 Experimenting with React/Next.js and Spring Boot  
+· 🚀 Learning something new with every feature and bug
+
+<br/>
+
+**✦ Stats**
+
+<div align="center">
+  
+<a href="https://github.com/chungshing">
+  <img height="180em" src="https://chungshing-github-readme-stats.vercel.app/api?username=chungshing&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/chungshing">
+  <img height="180em" src="https://chungshing-github-readme-stats.vercel.app/api/top-langs/?username=chungshing&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=00000000" />
+</a>
+
+</div>
+
 ---
 
 <div align="center">
-<sub>☕ caffeine → code → bugs → repeat</sub>
+<sub> ☕ caffeine → code → bugs → repeat</sub>
 </div>
