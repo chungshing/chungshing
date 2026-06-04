@@ -9,7 +9,7 @@ Software Engineer · Building projects and exploring different areas of IT · Ba
 ```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23A89984?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/chungshinglai/)
-[![Email](https://img.shields.io/badge/email-%23A89984?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:you@email.com)
+[![Email](https://img.shields.io/badge/email-%23A89984?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:chungshingg@gmail.com)
 
 </div>
 
@@ -73,7 +73,7 @@ Software Engineer · Building projects and exploring different areas of IT · Ba
 
 **✦ Current Project**
 
-· 🏎️ Building an [F1 stats dashboard with real-time race insights](https://github.com/chungshing/f1-race-intelligence-dashboard)  
+· 🏎️ Building an [F1 stats dashboard](https://github.com/chungshing/f1-race-intelligence-dashboard) with real-time race insights  
 · 🔎 Exploring backend architecture with Spring Boot + React   
 · 🚀 Shipping small features and iterating fast
 
