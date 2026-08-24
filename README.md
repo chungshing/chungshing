@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23A89984?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/chungshinglai/)
 [![Email](https://img.shields.io/badge/email-%23A89984?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:chungshingg@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23A89984?style=flat-square&logo=googlechrome&logoColor=white)](https://chungshing.github.io/portfolio-website/)
 
 *Software Engineer · Building projects and exploring different areas of IT · Based in Singapore*
 
@@ -66,7 +67,7 @@
 
 <br/>
 
-**✦ Currently Building**
+**✦ Featured Project**
 
 - 🏎️ Building an [F1 Race Intelligence Dashboard](https://github.com/chungshing/f1-race-intelligence-dashboard) with real-time race insights using React, Spring Boot, and PostgreSQL
 - 📊 Exploring data visualization and race analytics
